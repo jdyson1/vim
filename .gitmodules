@@ -13,3 +13,6 @@
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/bundle/SimpylFold"]
+	path = bundle/bundle/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
