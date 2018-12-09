@@ -33,9 +33,9 @@ set foldlevel=99
 nnoremap <space> za
 
 "airline configuration
-"let g:airline_theme='solarized'
-"let g:airline_solarized_bg='dark'
-let g:airline_powerline_fonts = 1
+let g:airline_theme='solarized'
+let g:airline_solarized_bg='dark'
+"let g:airline_powerline_fonts = 1
 "let g:airline_symbols_ascii = 1
 let g:airline#extensions#tabline#enabled = 1
 
